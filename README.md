@@ -1,0 +1,2 @@
+# Super-Store-Data-Analysis
+The Super Store dataset contains data on order details of customers for orders of a superstore in the US. This includes the state, region, order date, shipping date, product ordered etc. In this blog, we’ll define some use cases for this dataset. A use case for a dataset can be defined as questions that determine what information the dataset could represent. These can be a single question or multiple questions. Questions that we can ask the dataset and get answers from.
